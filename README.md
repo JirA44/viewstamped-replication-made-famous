@@ -8,6 +8,20 @@
 
 If you answered *Yes!* to any of the above, then this is your invitation to test *our skills* and **learn distributed consensus the fun way**, by hacking [TigerBeetle](https://www.tigerbeetle.com)'s biodigital jazz version of the pioneering Viewstamped Replication consensus protocol, and earning bounties of **up to $8192 for a correctness bug** and **up to $2048 for a liveness bug**, within scope, in a $20k consensus challenge.
 
+## Présentation en français
+
+Ce dépôt accompagne un défi de programmation autour du protocole de consensus Viewstamped Replication et de son implémentation dans TigerBeetle. Le projet invite les développeurs à étudier les systèmes distribués, la tolérance aux pannes et les garanties de correction.
+
+### À quoi ça sert, et pourquoi ?
+
+Il sert de support d’apprentissage pratique : examiner une implémentation réelle, comprendre les invariants d’un protocole distribué et rechercher des défauts dans le périmètre défini par le défi.
+
+### Exemple
+
+Lire les règles et le périmètre du challenge, reproduire un scénario de partition réseau dans l’environnement de test, puis documenter un défaut de correction ou de vivacité avec des étapes reproductibles.
+
+Les primes, délais et conditions peuvent évoluer ; vérifier les règles officielles et l’état du concours avant de participer.
+
 **[Watch the launch event on Zig SHOWTIME for an introduction to the protocol and behind-the-scenes interviews with Dr Brian M. Oki and Dr James Cowling.](https://www.youtube.com/watch?v=_Jlikdtm4OA)**
 
 ## Shall we play a game?
